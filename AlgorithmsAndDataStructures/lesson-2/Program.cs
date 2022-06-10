@@ -6,7 +6,7 @@ namespace lesson_2
     {
         static void Main(string[] args)
         {
-            Node node = new Node();
+
         }
     }
 }
